@@ -27,7 +27,10 @@ Racing Bar Chart of EV Sales by Manufacturer: Shows the changing landscape of to
 3.Bivariate Analysis (Non-Visualization,Visualization) for numerical vs numerical,categorical vs categorical,numerical vs categorical
 
 4.Choropleth Map to display the number of EV vehicles based on location
+
+
   Piechart-Distribution of Electric Vehicle by type(BEV,PHEV)
+  
   
   Boxplot-Boxplot of Electric Vehicle by Type(BEV,PHEV)
   
