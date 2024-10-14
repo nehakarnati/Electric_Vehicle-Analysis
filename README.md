@@ -21,17 +21,26 @@ Racing Bar Chart of EV Sales by Manufacturer: Shows the changing landscape of to
 
 # Steps Followed
 1.Data Cleaning/Data Description
+
 2.Univariate Analysis (Non -Visualization,Visualization) for both numerical and categorical data
+
 3.Bivariate Analysis (Non-Visualization,Visualization) for numerical vs numerical,categorical vs categorical,numerical vs categorical
+
 4.Choropleth Map to display the number of EV vehicles based on location
   Piechart-Distribution of Electric Vehicle by type(BEV,PHEV)
   Boxplot-Boxplot of Electric Vehicle by Type(BEV,PHEV)
+  
 5.Racing Bar Chart to display the animation of EV Make and its year
 
 # Technologies Used
 1.Python: Programming language for data analysis and visualization.
+
 2.pandas: Data manipulation and analysis.
+
 3.matplotlib & seaborn: For Exploratory Data Analysis (Univariate and Bivariate)
+
 4.Sklearn:for imputing missing values
+
 5.plotly: For generating the choropleth map.
+
 6.bar_chart_race: To create racing bar charts.
