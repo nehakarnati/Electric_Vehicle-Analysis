@@ -28,6 +28,7 @@ Racing Bar Chart of EV Sales by Manufacturer: Shows the changing landscape of to
 
 4.Choropleth Map to display the number of EV vehicles based on location
   Piechart-Distribution of Electric Vehicle by type(BEV,PHEV)
+  
   Boxplot-Boxplot of Electric Vehicle by Type(BEV,PHEV)
   
 5.Racing Bar Chart to display the animation of EV Make and its year
